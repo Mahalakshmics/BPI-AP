@@ -1,0 +1,46 @@
+{
+  "Which of the following is considered a sign of life?": {
+    "if_correct": "Serve Q1.2",
+    "if_incorrect": "Serve Q1.0"
+  },
+  "Which of the following is *not* a living thing?": {
+    "if_correct": "Serve Q1.1",
+    "if_incorrect": "Go to teaching support"
+  },
+  "Why is visible movement not always a reliable sign of life?": {
+    "if_correct": "Serve Q1.3",
+    "if_incorrect": "Serve Q1.1"
+  },
+  "A leafless tree stands still during winter. Which observation best supports that it is still alive?": {
+    "if_correct": "Serve Q2.1",
+    "if_incorrect": "Serve Q1.2"
+  },
+  "Which life process helps organisms break down food to release energy?": {
+    "if_correct": "Serve Q2.2",
+    "if_incorrect": "Serve Q2.0"
+  },
+  "What do living beings use to obtain energy?": {
+    "if_correct": "Serve Q2.1",
+    "if_incorrect": "Go to teaching support"
+  },
+  "Why do organisms need to constantly carry out life processes?": {
+    "if_correct": "Serve Q2.3",
+    "if_incorrect": "Serve Q2.1"
+  },
+  "Which of these best explains the interdependence of respiration and nutrition?": {
+    "if_correct": "Serve Q3.1",
+    "if_incorrect": "Serve Q2.2"
+  },
+  "What do unicellular organisms use for gas exchange?": {
+    "if_correct": "Serve Q3.2",
+    "if_incorrect": "Serve Q2.1"
+  },
+  "Why do multicellular organisms require specialized transport systems?": {
+    "if_correct": "Serve Q3.3",
+    "if_incorrect": "Serve Q3.1"
+  },
+  "An amoeba absorbs oxygen directly through its surface, but a frog has lungs. Why is this difference important?": {
+    "if_correct": "Proceed to next concept in the chapter",
+    "if_incorrect": "Serve Q3.2"
+  }
+}
